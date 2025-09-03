@@ -6,7 +6,7 @@
 ## 🌟 About Me
 - 🌱 Currently learning **Spring Boot & Microservices**  
 - 🔭 Built projects like **Online Train Ticket Reservation System**  
-- 📍 Based in **Hyderabad, Telangana**  
+- 📍 Lives in **Hyderabad, Telangana**  
 - 📫 Reach me at **[raushanbena@gmail.com](mailto:raushanbena@gmail.com)**  
 - 💡 Open to **Java Developer opportunities**  
 
