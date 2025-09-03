@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Raushan Kumar</h1>
-<h3 align="center">💻 Java Developer | Backend Enthusiast | Web Application Developer</h3>
+<h3 align="center">💻 Java Developer | Web Application Developer</h3>
 
 ---
 
